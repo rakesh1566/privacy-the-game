@@ -11,7 +11,8 @@
     "OR": null
   },
   "sells": [],
-  "optOut": null,
+  "optout": "https://lempire.com/privacy-policy",
+"contact": "privacy@lempire.com",
   "size": {
     "known": false,
     "signals": []
